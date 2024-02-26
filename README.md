@@ -1,4 +1,4 @@
-# emotion-classification-sentiment-analysis ()
+# emotion-classification-sentiment-analysis (ECSA)
 A text contains sentiments and emotions of the typist. Here the project is meant to develop in order to identify those. Therefore the project , can be called as mini research, is known as Emotion classification and sentiment analysis of the text.It is a Jupyter Notebook based project.
 
 ### Technology Review
