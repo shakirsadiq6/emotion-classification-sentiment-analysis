@@ -1,7 +1,7 @@
 # emotion-classification-sentiment-analysis
-A text contains sentiments and emotions of the typist. Here the project is meant to develop in order to identify those. Therefore the project , can be called as mini research, is known as Emotion classification and sentiment analysis of the text.It is a Jupyter Notebook based project. This would contain 6 phase:
+A text contains sentiments and emotions of the typist. Here the project is meant to develop in order to identify those. Therefore the project , can be called as mini research, is known as Emotion classification and sentiment analysis of the text.It is a Jupyter Notebook based project.
 
-### Technology Review.
+### Technology Review
 1. Elicitation and data gathering.
 2. Design and development of Algorithm.
 3. Training of the model.
@@ -17,7 +17,7 @@ A text contains sentiments and emotions of the typist. Here the project is meant
 The basic technology stack for the project is mentioned below:<br>
 1. Jupyter Notebook - An open source to create and share documents that contains live code.
 2. Numpy - To deal with numerical analysis.
-3. Scipy - An ecosystem for mathematics, science and engineering
+3. Scipy - An ecosystem for mathematics, science and engineering.
 4. Pandas - Any of the package to handle csv files5. Scikit-learn - To utilize the ML based tools to create a model.
 5. Matplotlib - To visualize the data in form figures and graphs.
 6. NLTK - Natural language toolkit for natural language processing.
