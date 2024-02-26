@@ -1,4 +1,4 @@
-# emotion-classification-sentiment-analysis
+# emotion-classification-sentiment-analysis ()
 A text contains sentiments and emotions of the typist. Here the project is meant to develop in order to identify those. Therefore the project , can be called as mini research, is known as Emotion classification and sentiment analysis of the text.It is a Jupyter Notebook based project.
 
 ### Technology Review
@@ -8,12 +8,12 @@ A text contains sentiments and emotions of the typist. Here the project is meant
 4. Testing of the model.
 5. Conclusion.
 
-### GOALS
+### Goals
 1. Develop an ML based model to perform sentiment analysis and emotion classification.
 2. Achieve accuracy in sentiment analysis and emotion detection.
 3. Perform Emotion classification on short messages and collection of texts.
 
-### SPECIFICATIONS
+### Specifications
 The basic technology stack for the project is mentioned below:<br>
 1. Jupyter Notebook - An open source to create and share documents that contains live code.
 2. Numpy - To deal with numerical analysis.
