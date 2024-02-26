@@ -18,7 +18,8 @@ The basic technology stack for the project is mentioned below:<br>
 1. Jupyter Notebook - An open source to create and share documents that contains live code.
 2. Numpy - To deal with numerical analysis.
 3. Scipy - An ecosystem for mathematics, science and engineering.
-4. Pandas - Any of the package to handle csv files5. Scikit-learn - To utilize the ML based tools to create a model.
-5. Matplotlib - To visualize the data in form figures and graphs.
-6. NLTK - Natural language toolkit for natural language processing.
-7. Python >=3.6.5 - Programming Language.
+4. Pandas - Any of the package to handle csv files
+5. Scikit-learn - To utilize the ML based tools to create a model.
+6. Matplotlib - To visualize the data in form figures and graphs.
+7. NLTK - Natural language toolkit for natural language processing.
+8. Python >=3.6.5 - Programming Language.
